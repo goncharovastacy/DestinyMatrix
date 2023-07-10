@@ -10,7 +10,7 @@ Destiny Matrix project includes two calculators that allow users to input their 
 
 To use the Destiny Matrix project, simply open the project in your web browser and navigate to the calculators. From there, input your birthdate and the calculators will automatically calculate your Destiny Matrix.
 
-[PERSONAL CALCULATION](https://goncharovastacy.github.io/DestinyMatrix/) |
+[PERSONAL CALCULATION](https://destinymatrix.netlify.app/) |
 [YOUR COMPATIBILITY](https://compatibilitymatrix.netlify.app/) 
 
 <img src="./assets/img/readme/screen1.png" alt="screen1" width="80%">
