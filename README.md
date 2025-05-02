@@ -34,7 +34,3 @@ To use the Destiny Matrix project, simply open the project in your web browser a
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
-
-# License
-
-Destiny Matrix project is licensed under the MIT license. Please see the `LICENSE` file for more information.
